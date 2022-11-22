@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/nixcodedev">
-  <img width="300em" src="https://github-readme-stats.vercel.app/api?username=nixcodedev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img wodth="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nixcodedev&layout=compact&langs_count=7&theme=dark"/>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=nixcodedev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="600em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nixcodedev&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 
