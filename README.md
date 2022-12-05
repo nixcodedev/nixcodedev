@@ -8,6 +8,7 @@
 </div>
 
 ##
+### Linguagens e ferramentas que estudo ou utilizo.  
   
 <!-- Devicons -->  
 <div style="display: inline_block"><br>
